@@ -353,7 +353,7 @@ class TerminalUI:
         left_text.append(f"{memory_icon} {memory_status}", style=status_style)
         
         # Center section - copyright
-        center_text = Text("© Crawl4AI 2025 | Made by UnclecCode", style="cyan italic")
+        center_text = Text("© Crawl4AI 2025 | Made by UncleCode", style="cyan italic")
         
         # Right section - quit instruction
         right_text = Text()
